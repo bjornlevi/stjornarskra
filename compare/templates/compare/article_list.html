@@ -1,0 +1,39 @@
+{% extends 'compare/index.html'%}
+
+{% block content %}
+	<div class="row">
+		<div class="col-md-1"></div>
+		<div class="col-md-11">
+			<div class="row">
+				<div class="col-md-6"><h4>Stjórnarskrá Íslands</h4></div>
+				<div class="col-md-6"><h4>Frumvarp stjórnlagaráðs</h4></div>
+			</div>
+		</div>
+	</div>
+	{% for article in article_list %}
+		<div class="row boxed">
+			<div class="col-md-1">
+				<a class="article" href="{% url 'compare:article_detail' article.id %}">Grein {{ article.nr }}</a>
+			</div>
+			<div class="col-md-11">
+				{% for sentence in article.sentences.all %}
+					{% if sentence.origin == 1 %}
+					<div class="row">
+						<div class="col-md-6">
+							{{ sentence.text }}
+						</div>
+						<div class="col-md-6">
+							{% for s in sentence.stjornarskra.all %}
+								<div class="row">
+									Grein: {{ s.frumvarp.article_nr }}
+									<a href="{% url 'compare:remove_match' sentence.id s.frumvarp.id %}">{{ s.frumvarp }}</a>
+								</div>
+							{% endfor %}
+						</div>
+					</div>
+					{% endif %}
+				{% endfor %}
+			</div>
+		</div>
+	{% endfor %}
+{% endblock %}

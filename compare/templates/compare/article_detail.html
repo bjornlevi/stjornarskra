@@ -1,0 +1,33 @@
+{% extends 'compare/index.html'%}
+{% load template_methods %}
+{% block content %}
+	<div class="row">
+		<h4>Grein {{ article.nr }}</h4>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			{% for sentence in article.sentences.all %}
+				{% if sentence.origin == 1 %}
+				<div class="row striped">
+					<div class="col-md-6">
+						{{ sentence.text }}
+					</div>
+					<div class="col-md-6">
+						{% for f in sentence.find_matches %}
+							<div class="row">
+								<div class="col-md-2">{{ f.0 }}%</div>
+								<div class="col-md-10">
+									Grein: {{ f.1.article_nr }}
+									<a href="{% url 'compare:add_match' sentence.id f.1.id %}">
+									{{ f.1 }}
+									</a>
+								</div>
+							</div>
+						{% endfor %}
+					</div>
+				</div>
+				{% endif %}
+			{% endfor %}
+		</div>
+	</div>
+{% endblock %}

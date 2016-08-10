@@ -2,54 +2,46 @@ from django.db import models
 from django import forms
 from django.utils.translation import ugettext_lazy as _
 
-class Sentance(models.Model):
+from fuzzywuzzy import fuzz
+
+class Sentence(models.Model):
 	"""
-	Sentance is a single sentance of an article
+	sentence is a single sentence of an article
 	"""
 	text = models.CharField(max_length = 1024)
 	ORIGIN_CHOICES = (
 	    (1, _("Stjórnarskrá")),
     	(2, _("Frumvarp"))
 	)
-	origin = models.IntegerField(choices=ORIGIN_CHOICES, default=1, max_length=1)   
+	origin = models.IntegerField(choices=ORIGIN_CHOICES, default=1)   
+	article_nr = models.CharField(max_length=3)
 
-class SentanceForm(forms.ModelForm):
+	def __lt__(self, other):
+		return self.article_nr < other.article_nr
+
+	def __str__(self):
+		return self.text
+
+	def find_matches(self):
+		results = []
+		for f in Sentence.objects.filter(origin=2):
+			ratio = fuzz.ratio(self.text, f.text)
+			if ratio == 100:
+				return [(ratio, f)]
+			if ratio > 0:
+				results.append((ratio, f))
+		return sorted(results)[::-1]
+
+class SentenceForm(forms.ModelForm):
 	class Meta:
-		model = Sentance
-		fields = ['text', 'origin']
-
-class Article(models.Model):
-	"""
-	Article has many sentances
-	"""
-	nr = models.CharField(max_length = 3)
-	sentances = models.ManyToManyField(Sentance, blank=True)
-
-class ArticleForm(forms.ModelForm):
-	class Meta:
-		model = Article
-		fields = ['nr', 'sentances']
-
-class Comparison(models.Model):
-	"""
-	Comparison contains two sentances and their ratio number
-	"""
-    stjornarskra = models.ForeignKey(Sentance, related_name="stjornarskra_set")
-    frumvarp = models.ForeignKey(Sentance, related_name="frumvarp_set")
-    ratio = models.CharField(max_length = 2)
-
-class ComparisonForm(forms.ModelForm):
-	class Meta:
-		model = Comparison
-		fields = ['stjornarskra', 'frumvarp', 'ratio']
+		model = Sentence
+		fields = ['text', 'origin', 'article_nr']
 
 class Match(models.Model):
-	"""
-	Saved match between two sentances
-	"""
-	match = models.OneToOneField(Comparison)
+	ratio = models.IntegerField()
+	stjornarskra = models.ForeignKey(Sentence, related_name='stjornarskra')
+	frumvarp = models.ForeignKey(Sentence, related_name='frumvarp')
 
-class MatchForm(forms.ModelForm):
-	class Meta:
-		model = Match
-		fields = ['match']
+class Article(models.Model):
+	nr = models.CharField(max_length=3, unique=True)
+	sentences = models.ManyToManyField(Sentence)

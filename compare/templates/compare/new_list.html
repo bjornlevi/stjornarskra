@@ -1,0 +1,24 @@
+{% extends 'compare/index.html'%}
+
+{% block content %}
+	<div class="row">
+		<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-2"><h4>Skjal</h4></div>
+				<div class="col-md-6"><h4>Grein</h4></div>
+			</div>
+		</div>
+	</div>
+	{% for f in new_list %}
+		<div class="row boxed">
+			<div class="col-md-12">
+				<div class="col-md-2">
+					{{ f.article_nr }}
+				</div>
+				<div class="col-md-6">
+					{{ f }}
+				</div>
+			</div>
+		</div>
+	{% endfor %}
+{% endblock %}
