@@ -1,0 +1,423 @@
+1,Ísland er lýðveldi með þingræðisstjórn.
+2,Uppspretta ríkisvalds og handhafar þess.
+2,Allt ríkisvald sprettur frá þjóðinni og beitir hún því annaðhvort beint eða fyrir milligöngu handhafa þess.
+2,Alþingi fer með löggjafarvaldið.
+2,Forseti Íslands, ráðherrar og ríkisstjórn og önnur stjórnvöld fara með framkvæmdarvaldið.
+2,Hæstiréttur Íslands og aðrir dómstólar fara með dómsvaldið.
+3,Íslenskt landsvæði er eitt og óskipt.
+3,Mörk íslenskrar landhelgi, lofthelgi og efnahagslögsögu skulu ákveðin með lögum.
+4,Rétt til íslensks ríkisfangs öðlast þeir sem við fæðingu eiga foreldri með íslenskt ríkisfang, eftir því sem nánar er mælt fyrir um í lögum.
+4,Ríkisborgararéttur verður að öðru leyti veittur samkvæmt lögum.
+4,Engan má svipta íslenskum ríkisborgararétti sem öðlast hefur slíkan rétt með löglegum hætti.
+4,Með lögum má þó ákveða að maður missi þann rétt ef hann á eða öðlast með samþykki sínu ríkisfang í öðru ríki.
+4,Íslenskum ríkisborgara verður ekki meinað að koma til landsins né verður honum vísað úr landi.
+5,Handhöfum ríkisvalds ber að virða mannréttindi og tryggja að allir fái notið þeirra réttinda og þess frelsis sem í þessari stjórnarskrá felst.
+5,Með lögum skal tryggja vernd og viðeigandi réttarúrræði vegna mannréttindabrota einkaaðila.
+6,Allir skulu vera jafnir fyrir lögum.
+6,Enginn skal sæta mismunun.
+6,Konur og karlar skulu njóta jafns réttar í hvívetna.
+7,Allir hafa meðfæddan rétt til lífs.
+8,Allir hafa rétt til að lifa með reisn.
+8,Margbreytileiki mannlífsins skal virtur í hvívetna.
+9,Í lögum má aldrei mæla fyrir um dauðarefsingu.
+9,Engan má beita pyndingum né annarri ómannúðlegri eða vanvirðandi meðferð eða refsingu.
+9,Nauðungarvinnu skal engum gert að leysa af hendi.
+10,Allir skulu njóta verndar gegn hvers kyns ofbeldi, svo sem kynferðisofbeldi, innan heimilis og utan.
+11,Engan má svipta frelsi nema samkvæmt heimild í lögum eftir sakfellingu fyrir dómi eða vegna annarra refsivörsluástæðna, réttarvörslu, barnaverndar, verndar gegn útbreiðslu smitsjúkdóma, geðraskana, áfengis- eða eiturlyfjafíknar, landamæragæslu og framsals sakamanna.
+11,Hver sá sem hefur verið sviptur frelsi á rétt á að fá að vita tafarlaust um ástæður þess.
+11,Hvern þann sem er handtekinn vegna gruns um refsiverða háttsemi skal án undandráttar leiða fyrir dómara.
+11,Sé hann ekki jafnskjótt látinn laus skal dómari, áður en sólarhringur er liðinn, ákveða með rökstuddum úrskurði hvort hann skuli sæta gæsluvarðhaldi.
+11,Gæsluvarðhaldi má aðeins beita fyrir sök sem fangelsisvist liggur við.
+11,Með lögum skal tryggja rétt þess sem sætir gæsluvarðhaldi til að skjóta úrskurði um það til æðra dóms.
+11,Maður skal aldrei sæta gæsluvarðhaldi lengur en nauðsyn krefur en telji dómari fært að láta hann lausan gegn tryggingu skal hann mæla fyrir um hana í úrskurði þar sem kveða skal á um fjárhæð hennar.
+11,Hver sá sem af öðrum ástæðum en í tengslum við sakamál er sviptur frelsi á rétt á að dómstóll kveði á um lögmæti þess svo fljótt sem verða má.
+11,Reynist frelsissvipting ólögmæt skal hann þegar látinn laus.
+11,Hafi maður verið sviptur frelsi að ósekju skal hann eiga rétt til skaðabóta.
+12,Allir sem dveljast löglega í landinu skulu ráða búsetu sinni og vera frjálsir ferða sinna.
+12,Með lögum skal tryggja rétt almennings til að fara um landið í lögmætum tilgangi með virðingu fyrir náttúru og umhverfi.
+12,Engum verður meinað að hverfa úr landi nema með ákvörðun dómstóla.
+12,Stöðva má þó brottför manns úr landi með lögmætri handtöku.
+12,Með lögum skal skipað rétti útlendinga til að koma til landsins og dveljast hér, svo og fyrir hvaða sakir sé hægt að vísa þeim úr landi.
+12,Óheimilt er að vísa brott, endursenda eða framselja útlending til ríkis þar sem hætta er á að hann sæti dauðarefsingu, pyndingum eða annarri ómannúðlegri eða vanvirðandi meðferð eða refsingu.
+12,Tryggja skal réttláta málsmeðferð innan hæfilegs tíma í slíkum málum.
+13,Öllum ber réttur til að fá úrlausn um réttindi sín og skyldur eða um ákæru á hendur sér um refsiverða háttsemi með réttlátri málsmeðferð innan hæfilegs tíma fyrir óháðum og óhlutdrægum dómstóli.
+13,Dómþing skal háð í heyranda hljóði nema dómari ákveði annað lögum samkvæmt til að gæta velsæmis, allsherjarreglu, öryggis ríkisins og rannsóknarhagsmuna eða vegna hagsmuna ungmenna og verndar einkalífs málsaðila.
+13,Hver sá sem er borinn sökum um refsiverða háttsemi skal talinn saklaus þar til sekt hans hefur verið sönnuð.
+13,Enginn skal sæta málsmeðferð eða refsingu að nýju fyrir sama brot innan lögsögu ríkisins og hann hefur þegar verið sakfelldur fyrir eða sýknaður af með endanlegri úrlausn samkvæmt lögum.
+13,Endurupptaka mála er þó heimil í samræmi við lög.
+14,Engum verður gert að sæta refsingu nema hann hafi gerst sekur um háttsemi sem var refsiverð samkvæmt lögum þegar hún átti sér stað eða má fullkomlega jafna til þeirrar háttsemi.
+14,Viðurlög mega ekki verða þyngri en þá voru leyfð í lögum.
+15,Allir skulu njóta friðhelgi einkalífs, heimilis og fjölskyldu.
+15,Ekki má gera líkamsrannsókn eða leit á manni, leit í húsakynnum hans eða munum nema samkvæmt dómsúrskurði og að uppfylltum skilyrðum 29 Það sama á við um rannsókn á skjölum og póstsendingum, símtölum og öðrum fjarskiptum, svo og hvers konar sambærilega takmörkun á einkalífi manns.
+15,Með lögum má kveða á um undantekningar frá skilyrðinu um dómsúrskurð.
+15,Allir eiga rétt til verndar eigin persónuupplýsinga.
+15,Nánar skal mælt fyrir um persónuvernd og meðferð persónuupplýsinga með lögum.
+16,Allir eru frjálsir skoðana sinna og sannfæringar og eiga rétt á að tjá hugsanir sínar.
+16,Öllum er frjálst að leita eftir, taka við, safna og miðla upplýsingum og hugmyndum.
+16,Ritskoðun og aðrar sambærilegar tálmanir á tjáningarfrelsi má aldrei í lög leiða.
+16,Með lögum skal tryggja aðstæður til opinnar og upplýstrar umræðu.
+16,Óheimilt er að takmarka aðgang að netinu og upplýsingatækni nema að uppfylltum skilyrðum 29
+16,Hver og einn ber ábyrgð á tjáningu sinni fyrir dómi.
+17,Upplýsingar og gögn í fórum stjórnvalda skulu vera tiltæk án undandráttar og skal með lögum tryggja aðgang almennings að þeim.
+17,Listi yfir öll mál og gögn í vörslu stjórnvalda, uppruna þeirra og innihald, skal vera öllum aðgengilegur.
+17,Heimilt er í lögum að takmarka aðgang að vinnuskjölum enda sé ekki gengið lengra en þörf krefur til að varðveita eðlileg starfsskilyrði stjórnvalda.
+17,Aðrar takmarkanir á aðgangi að upplýsingum og gögnum skulu uppfylla skilyrði 29
+17,Um gögn sem lögbundin leynd hvílir yfir skulu liggja fyrir upplýsingar um ástæður leyndar og takmörkun leyndartíma.
+17,Með lögum skal tryggja almenningi aðgang að undirbúningi ákvarðana sem hafa umtalsverð áhrif á umhverfi og náttúru svo og heimild til að leita til hlutlausra úrskurðaraðila.
+18,Frelsi fjölmiðla, ritstjórnarlegt sjálfstæði þeirra og gegnsætt eignarhald skal tryggja með lögum.
+18,Vernd blaðamanna, heimildarmanna og uppljóstrara skal tryggja í lögum.
+18,Óheimilt er að rjúfa nafnleynd án samþykkis þess sem veitir upplýsingar nema við meðferð sakamáls og samkvæmt dómsúrskurði.
+19,Allir hafa frelsi til trúar, lífsskoðunar og sannfæringar, þ.m.t. réttinn til að breyta um trú eða sannfæringu og standa utan trúfélaga.
+19,Öllum er frjálst að iðka trú eða lífsskoðun, einslega eða í samfélagi með öðrum, opinberlega eða á einkavettvangi.
+20,Allir hafa rétt til að mynda félög í löglegum tilgangi, þ.m.t. stjórnmálafélög og stéttarfélög, án þess að sækja um leyfi til þess.
+20,Félag má ekki leysa upp með ráðstöfun stjórnvalds.
+20,Engan má skylda til aðildar að félagi.
+20,Að uppfylltum skilyrðum 29 má þó kveða á um slíka skyldu ef það er nauðsynlegt til að félag geti sinnt lögmæltu hlutverki vegna almannahagsmuna eða réttinda annarra.
+21,Allir hafa rétt til að safnast saman án sérstaks leyfis, svo sem til fundarhalda og mótmæla.
+22,Allir hafa rétt til að njóta eigna sinna í friði.
+22,Engan má skylda til að láta af hendi eign sína nema almenningsþörf krefji.
+22,Þarf til þess lagafyrirmæli og komi fullt verð fyrir.
+22,Eignarrétti fylgja skyldur, svo og takmarkanir í samræmi við lög.
+22,Með lögum má takmarka rétt erlendra aðila til að eiga fasteignaréttindi eða hluti í atvinnufyrirtæki hér á landi.
+22,Allar slíkar takmarkanir eignarréttinda skulu uppfylla skilyrði 29
+23,Öllum er frjálst að stunda þá atvinnu sem þeir kjósa.
+23,Í lögum skal kveða á um rétt til mannsæmandi vinnuskilyrða, svo sem aðbúnaðar, öryggis, hvíldar, orlofs og frítíma.
+23,Allir hafa rétt til að semja um starfskjör og önnur réttindi tengd vinnu.
+24,Tryggja skal með lögum frelsi vísinda, fræða og lista.
+25,Öllum skal með lögum tryggður réttur til lífsviðurværis og félagslegs öryggis.
+25,Öllum sem þess þurfa skal í lögum tryggður réttur til almannatrygginga og félagslegrar aðstoðar, svo sem vegna atvinnuleysis, barneigna, elli, fátæktar, fötlunar, veikinda, örorku eða sambærilegra aðstæðna.
+26,Öllum skal með lögum tryggður réttur til að njóta andlegrar og líkamlegrar heilsu að hæsta marki sem unnt er, þ.m.t. réttur á heilnæmu umhverfi, fersku vatni og ómenguðu andrúmslofti.
+26,Öllum skal með lögum tryggður réttur til aðgengilegrar, viðeigandi og fullnægjandi heilbrigðisþjónustu.
+27,Öllum skal í lögum tryggður réttur til almennrar menntunar og fræðslu við sitt hæfi.
+27,Öllum þeim sem skólaskylda nær til skal standa til boða menntun án endurgjalds.
+27,Menntun skal miða að alhliða þroska hvers og eins, gagnrýninni hugsun og vitund um mannréttindi, lýðræðisleg réttindi og skyldur.
+27,Virða skal rétt foreldra til þess að tryggja að menntun barna þeirra sé í samræmi við trúar- og lífsskoðanir þeirra.
+28,Öllum börnum skal tryggð í lögum sú vernd og umönnun sem velferð þeirra krefst.
+28,Það sem barni er fyrir bestu skal ávallt hafa forgang þegar teknar eru ákvarðanir í málum sem það varða.
+28,Barni skal tryggður réttur til að tjá skoðanir sínar í öllum málum sem það varða og skal tekið réttmætt tillit til skoðana barnsins í samræmi við aldur þess og þroska.
+29,Mannréttindi tryggð með stjórnarskrá þessari má því aðeins takmarka að það sé gert með lagaheimild og sé nauðsynlegt í þágu almannahagsmuna eða til verndar réttindum annarra svo sem samræmist lýðræðishefðum.
+29,Gæta skal meðalhófs og þess að ekki sé með takmörkuninni vegið að kjarna þeirra réttinda sem um ræðir.
+29,Réttindi skv. 7, 1. málsl. 8, 9, 11, 2. og 3. mgr. 13 og 14 má þó aldrei takmarka á grundvelli þessa ákvæðis.
+30,Íslenska er þjóðtunga á Íslandi og skal ríkisvaldið styðja hana og vernda.
+31,Hin evangelíska lúterska kirkja skal vera þjóðkirkja á Íslandi og skal ríkisvaldið að því leyti styðja hana og vernda.
+31,Breyta má þessu með lögum.
+31,Nú samþykkir Alþingi breytingu á kirkjuskipun ríkisins skv. 2. mgr. og skal þá leggja það mál undir atkvæði allra kosningarbærra manna til samþykktar eða synjunar.
+31,Atkvæðagreiðslan skal vera leynileg.
+32,Herskyldu má aldrei í lög leiða.
+33,Fágæta náttúrugripi í þjóðareign og dýrmætar þjóðareignir sem heyra til íslenskum menningararfi, svo sem þjóðminjar og fornhandrit, má hvorki eyðileggja né afhenda til eignar eða varanlegra afnota, selja eða veðsetja.
+34,Náttúra Íslands er undirstaða lífs í landinu.
+34,Öllum ber að virða hana og vernda.
+34,Í því felst að fjölbreytni lands og lífríkis sé viðhaldið og náttúruminjar, óbyggð víðerni, gróður og jarðvegur njóti verndar.
+34,Fyrri spjöll skulu bætt eftir föngum.
+34,Með lögum skal tryggja að allir hafi aðgang að óspilltri náttúru.
+34,Nýtingu náttúrugæða skal haga þannig að þau skerðist sem minnst til langframa og gildi náttúrunnar og hagsmunir komandi kynslóða séu virt.
+35,Auðlindir í náttúru Íslands sem ekki eru háðar einkaeignarrétti eru sameiginleg og ævarandi eign þjóðarinnar.
+35,Enginn getur fengið þær eða réttindi tengd þeim til eignar eða varanlegra afnota og aldrei má selja þær eða veðsetja.
+35,Handhafar löggjafar- og framkvæmdarvalds fara með forsjá, vörslu og ráðstöfunarrétt auðlindanna og réttindanna í umboði þjóðarinnar.
+35,Óheimilt er að framselja beint eða óbeint með varanlegum hætti til annarra aðila réttindi yfir jarðhita, vatni með virkjanlegu afli og grunnvatni, sem og námaréttindi, í eigu ríkisins eða félaga sem alfarið eru í eigu þess.
+35,Sama gildir um réttindi yfir vatni, jarðhita og jarðefnum á ríkisjörðum umfram lágmarksréttindi vegna heimilis- og búsþarfa.
+35,Til þjóðareignar skv. 1. mgr. teljast nytjastofnar og aðrar auðlindir hafsins innan íslenskrar lögsögu, auðlindir á, í eða undir hafsbotninum utan netlaga svo langt sem fullveldisréttur ríkisins nær, vatn, þó að gættum lögbundnum réttindum annarra til hagnýtingar og ráðstöfunar þess, og auðlindir og náttúrugæði í þjóðlendum.
+35,Löggjafinn getur ákveðið að lýsa fleiri auðlindir og náttúrugæði þjóðareign, enda séu þau ekki háð einkaeignarrétti.
+35,Í eignarlöndum takmarkast réttur eigenda til auðlinda undir yfirborði jarðar við venjulega hagnýtingu fasteignar.
+35,Með lögum má kveða á um þjóðareign á auðlindum undir tiltekinni dýpt frá yfirborði jarðar.
+35,Við nýtingu auðlindanna skal hafa sjálfbæra þróun og almannahag að leiðarljósi.
+35,Stjórnvöld bera, ásamt þeim sem nýta auðlindirnar, ábyrgð á vernd þeirra.
+35,Stjórnvöld geta á grundvelli laga veitt leyfi til afnota eða hagnýtingar auðlinda, sem og annarra takmarkaðra almannagæða, gegn eðlilegu gjaldi og til tiltekins hóflegs tíma í senn.
+35,Slík leyfi skal veita á jafnræðisgrundvelli og þau leiða aldrei til eignar eða óafturkallanlegs forræðis.
+36,Stjórnvöldum ber að upplýsa almenning um ástand umhverfis og náttúru og áhrif framkvæmda þar á.
+36,Stjórnvöld og aðrir skulu upplýsa um aðsteðjandi náttúruvá, svo sem umhverfismengun.
+36,Við töku ákvarðana um náttúru Íslands og umhverfi skulu stjórnvöld byggja á meginreglum umhverfisréttar.
+37,Með lögum skal kveðið á um vernd dýra gegn illri meðferð og vernd dýrategunda í útrýmingarhættu.
+38,Alþingi er þjóðþing Íslendinga.
+38,Alþingi fer í umboði þjóðarinnar með löggjafarvald og fjárstjórnarvald ríkisins og hefur eftirlit með framkvæmdarvaldinu svo sem nánar er mælt fyrir um í stjórnarskrá þessari og öðrum lögum.
+39,Alþingi er friðheilagt.
+39,Enginn má raska friði þess né frelsi.
+40,Á Alþingi eiga sæti 63 þingmenn, kosnir leynilegri kosningu til fjögurra ára.
+40,Atkvæði kjósenda alls staðar á landinu vega jafnt eftir því sem frekast er unnt.
+40,Heimilt er að skipta landinu upp í kjördæmi.
+40,Listar eru boðnir fram í kjördæmum.
+40,Þeir mega vera óraðaðir eða raðaðir.
+40,Frambjóðandi má vera á fleiri en einum lista sömu stjórnmálasamtaka.
+40,Kjósandi getur valið lista eða einstaka frambjóðendur í persónukjöri.
+40,Í lögum má ákveða hvort og í hvaða mæli megi velja frambjóðendur af fleiri en einum lista.
+40,Úthlutun þingsæta skal vera í sem fyllstu samræmi við atkvæðastyrk stjórnmálasamtaka, lista og frambjóðenda.
+40,Í kosningalögum skal mælt fyrir um hvernig stuðla skuli að sem jöfnustu hlutfalli kvenna og karla á Alþingi.
+40,Breytingar á kjördæmamörkum, tilhögun á úthlutun þingsæta og reglum um framboð, sem fyrir er mælt í lögum, verða aðeins gerðar með samþykki 3/ 5 hluta atkvæða á Alþingi.
+40,Slíkar breytingar koma ekki til framkvæmda fyrr en að einu ári liðnu frá gildistöku.
+40,Nánari reglur um alþingiskosningar skulu settar í lögum.
+41,Reglulegar alþingiskosningar skulu fara fram eigi síðar en við lok kjörtímabils.
+41,Kjörtímabil er fjögur ár.
+41,Upphaf og lok kjörtímabils miðast við sama vikudag í mánuði, talið frá mánaðamótum.
+42,Kosningarrétt við kosningar til Alþingis hafa allir sem eru 18 ára eða eldri þegar kosning fer fram og hafa íslenskan ríkisborgararétt.
+42,Lögheimili á Íslandi, þegar kosning fer fram, er einnig skilyrði kosningarréttar, nema undantekningar frá þeirri reglu verði ákveðnar í lögum um kosningar til Alþingis.
+43,Kjörgengur við kosningar til Alþingis er hver sá ríkisborgari sem kosningarrétt á til þeirra og hefur óflekkað mannorð.
+43,Hæstaréttardómarar eru þó ekki kjörgengir.
+43,Glati alþingismaður kjörgengi missir hann þann rétt sem þingkosningin veitti honum.
+43,Varamaður tekur þá sæti hans á þingi.
+44,Landskjörstjórn gefur út kjörbréf handa alþingismönnum að loknum kosningum.
+44,Um störf landskjörstjórnar fer eftir nánari fyrirmælum í lögum.
+44,Kærum út af kosningu alþingismanna eða kjörgengi svo og gildi forsetakosninga og gildi þjóðaratkvæðagreiðslna skal beina til nefndar sem forseti Alþingis skipar til fimm ára í senn að fenginni tilnefningu Hæstaréttar.
+44,Um störf nefndarinnar fer eftir nánari fyrirmælum í lögum.
+44,Úrskurðir nefndarinnar eru endanlegir.
+44,Alþingismenn halda umboði sínu þótt kosning hafi verið kærð.
+44,Taki nýr þingmaður sæti á Alþingi eftir kæruúrskurð, sbr. 2. mgr., gildir umboð hans frá þeim degi þegar úrskurður er auglýstur.
+44,Sama gildir um varamenn.
+45,Alþingi kemur saman eigi síðar en tveimur vikum eftir almennar alþingiskosningar.
+45,Forseti Alþingis undirbýr setningu nýkjörins þings.
+45,Starfstíma Alþingis á hverju kjörtímabili má í þingsköpum skipta í aðgreind löggjafarþing og skal þá miða við almanaksárið eða hluta þess.
+46,Alþingi kemur að jafnaði saman í Reykjavík en getur þó ákveðið að koma saman á öðrum stað.
+47,Forseti Íslands setur nýkjörið Alþingi þegar það kemur fyrst saman að loknum almennum alþingiskosningum.
+47,Forseti Íslands setur einnig Alþingi að tillögu forseta þess eða fjórðungs þingmanna.
+48,Sérhver nýr alþingismaður undirritar eiðstaf að stjórnarskránni.
+49,Alþingismenn eru eingöngu bundnir við sannfæringu sína en ekki við nein fyrirmæli frá öðrum.
+50,Ekki má setja alþingismann í gæsluvarðhald eða höfða sakamál á hendur honum án samþykkis þingsins nema hann sé staðinn að glæp.
+50,Hvorki alþingismaður né ráðherra verður krafinn reikningsskapar utan þings fyrir það sem hann hefur sagt í þinginu nema Alþingi leyfi.
+51,Alþingismanni er óheimilt að taka þátt í meðferð þingmáls sem varðar sérstaka og verulega hagsmuni hans eða honum nákominna.
+51,Um hæfi þingmanna skal nánar mælt fyrir í lögum.
+51,Vanhæfi þingmanns hefur ekki áhrif á gildi settra laga.
+51,Í lögum skal kveðið á um skyldu alþingismanna til að veita upplýsingar um fjárhagslega hagsmuni sína.
+52,Í lögum skal kveðið á um starfsemi stjórnmálasamtaka, svo og um fjármál frambjóðenda í því skyni að halda kostnaði í hófi, tryggja gegnsæi og takmarka auglýsingar í kosningabaráttu.
+52,Upplýsingar um framlög yfir ákveðinni lágmarksupphæð skulu birtar samkvæmt nánari fyrirmælum í lögum.
+53,Alþingi kýs sér forseta með 3/ 5 hlutum atkvæða í upphafi hvers kjörtímabils.
+53,Sitji forseti ekki út kjörtímabil skal sami háttur hafður á við kosningu nýs forseta.
+53,Nánari ákvæði um kjör forseta skal setja í lögum.
+53,Forseti stýrir störfum Alþingis.
+53,Hann ber ábyrgð á rekstri þingsins og hefur æðsta vald í stjórnsýslu þess.
+53,Með forseta starfa varaforsetar sem eru staðgenglar hans.
+53,Um kosningu þeirra skal mælt fyrir í lögum.
+54,Þingsköp Alþingis skulu sett með lögum.
+54,Breytingar á þingsköpum verða aðeins gerðar með samþykki 3/ 5 hluta atkvæða á Alþingi.
+55,Alþingi kýs fastanefndir til að fjalla um þingmál.
+55,Um störf þingnefnda skal mælt fyrir í lögum.
+55,Þingnefnd getur ákveðið að fundur hennar sé opinn samkvæmt nánari fyrirmælum í lögum.
+56,Alþingi starfar í einni málstofu.
+56,Fundir Alþingis eru haldnir í heyranda hljóði.
+56,Þó getur forseti eða svo margir þingmenn sem til er tekið í þingsköpum lagt til að umræður um þingmál fari fram fyrir luktum dyrum enda krefjist öryggi ríkisins eða brýnir þjóðarhagsmunir þess.
+56,Þingfundur sker úr hvort ræða skuli málið í heyranda hljóði eða fyrir luktum dyrum og þarf 3/ 5 hluta atkvæða til að tillagan teljist samþykkt.
+57,Alþingismenn hafa rétt til að flytja frumvörp til laga, tillögur til ályktana og önnur þingmál.
+57,Ráðherrar geta lagt fyrir Alþingi frumvörp til laga og tillögur til ályktana sem ríkisstjórn hefur samþykkt.
+57,Þá geta ráðherrar lagt fram skýrslur á Alþingi.
+57,Með lögum skal ákveða hvenær þingmál falla niður.
+58,Lagafrumvarp má ekki samþykkja fyrr en eftir minnst tvær umræður á Alþingi.
+58,Mat á áhrifum lagasetningar skal fylgja frumvörpum samkvæmt nánari ákvæðum í lögum.
+59,Tillögu til þingsályktunar má ekki samþykkja fyrr en eftir tvær umræður á Alþingi.
+59,Tillögur um þingrof eða vantraust á ráðherra eru ræddar og afgreiddar við eina umræðu.
+59,Að öðru leyti skal kveðið á um meðferð þingmála í lögum.
+60,Alþingi getur því aðeins gert samþykkt um mál að meira en helmingur þingmanna sé á fundi og taki þátt í atkvæðagreiðslu.
+61,Þegar Alþingi hefur samþykkt frumvarp til laga undirritar forseti Alþingis það og leggur innan tveggja vikna fyrir forseta Íslands til staðfestingar og veitir undirskrift hans því lagagildi.
+61,Forseti Íslands getur ákveðið innan viku frá móttöku frumvarps að synja því staðfestingar.
+61,Skal sú ákvörðun vera rökstudd og tilkynnt forseta Alþingis.
+61,Frumvarpið fær þá engu síður lagagildi en innan þriggja mánaða skal bera lögin undir þjóðaratkvæði til samþykktar eða synjunar.
+61,Einfaldur meiri hluti ræður hvort lögin halda gildi sínu.
+61,Atkvæðagreiðsla fer þó ekki fram felli Alþingi lögin úr gildi innan fimm daga frá synjun forseta.
+61,Um framkvæmd þjóðaratkvæðagreiðslu skal að öðru leyti mælt fyrir í lögum.
+62,Birta skal lög, stjórnvaldsfyrirmæli og þjóðréttarsamninga sem ríkið hefur fullgilt.
+62,Lögum og stjórnvaldsfyrirmælum má ekki beita fyrr en eftir birtingu þeirra.
+62,Óbirt lög binda þó stjórnvöld frá gildistöku þeirra.
+62,Um birtingarhátt og gildistöku fer að lögum.
+63,Alþingi kýs í Lögréttu fimm menn til fimm ára.
+63,Þingnefnd eða fjórðungur alþingismanna getur óskað eftir áliti Lögréttu um hvort frumvarp til laga samrýmist stjórnarskrá og þjóðréttarlegum skuldbindingum ríkisins.
+63,Ekki má afgreiða frumvarpið fyrr en álit Lögréttu liggur fyrir.
+63,Um Lögréttu skal nánar mælt fyrir í lögum.
+64,Stjórnskipunar- og eftirlitsnefnd Alþingis kannar hvers kyns athafnir og ákvarðanir ráðherra eða stjórnsýslu þeirra eftir því sem hún telur efni til.
+64,Nefndinni er skylt að hefja slíka könnun að kröfu fjórðungs þingmanna.
+65,Alþingi getur skipað nefndir til að rannsaka mikilvæg mál er varða almenning.
+65,Nánari reglur um hlutverk, rannsóknarheimildir og skipan rannsóknarnefnda skulu settar með lögum.
+66,Tíu af hundraði kjósenda geta krafist þjóðaratkvæðis um lög sem Alþingi hefur samþykkt.
+66,Kröfuna ber að leggja fram innan þriggja mánaða frá samþykkt laganna.
+66,Lögin falla úr gildi ef kjósendur hafna þeim en annars halda þau gildi sínu.
+66,Alþingi getur þó ákveðið að fella lögin úr gildi áður en til þjóðaratkvæðis kemur eða fresta gildistöku þeirra þar til atkvæðagreiðslan hefur farið fram.
+66,Þjóðaratkvæðagreiðslan skal fara fram innan árs frá því að krafa kjósenda var lögð fram.
+67,Tveir af hundraði kjósenda geta lagt fram frumvarp til laga eða tillögu til þingsályktunar á Alþingi.
+67,Tíu af hundraði kjósenda geta lagt frumvarp til laga fyrir Alþingi.
+67,Alþingi getur lagt fram gagntillögu í formi annars frumvarps.
+67,Hafi frumvarp kjósenda ekki verið dregið til baka skal bera það undir þjóðaratkvæði, svo og frumvarp Alþingis komi það fram.
+67,Alþingi getur ákveðið að þjóðaratkvæðagreiðslan skuli vera bindandi.
+67,Þjóðaratkvæðagreiðsla um frumvarp að tillögu kjósenda skal fara fram innan tveggja ára frá því að málið hefur verið afhent Alþingi.
+68,Mál sem er borið undir þjóðaratkvæði að kröfu eða frumkvæði kjósenda samkvæmt ákvæðum 66. gr. og 67. gr. skal varða almannahag.
+68,Á grundvelli þeirra er hvorki hægt að krefjast atkvæðagreiðslu um fjárlög, fjáraukalög, lög sem eru sett til að framfylgja þjóðréttarskuldbindingum né heldur um skattamálefni eða ríkisborgararétt.
+68,Rísi ágreiningur um hvort mál uppfylli framangreind skilyrði skera dómstólar þar úr.
+68,Þess skal gætt að frumvarp að tillögu kjósenda samrýmist stjórnarskrá.
+68,Rísi ágreiningur þar um skal leita álits Lögréttu.
+68,Í lögum skal kveðið á um framkvæmd málskots eða frumkvæðis kjósenda, svo sem um form og fyrirsvar fyrir kröfunni, tímafrest til söfnunar undirskrifta og um fyrirkomulag þeirra, hverju megi til kosta við kynningu á meðferð málsins á Alþingi og hvernig afturkalla megi kröfuna að fengnum viðbrögðum Alþingis, svo og um hvernig haga skuli atkvæðagreiðslu.
+69,Fyrir hvert reglulegt Alþingi skal, þegar það er saman komið, leggja frumvarp til fjárlaga fyrir það fjárhagsár sem í hönd fer.
+69,Skal í frumvarpinu vera fólgin greinargerð um tekjur ríkisins og gjöld eftir því sem nánar er ákveðið í lögum.
+70,Enga greiðslu má inna af hendi nema heimild sé til þess í fjárlögum eða fjáraukalögum.
+70,Að fengnu samþykki fjárlaganefndar Alþingis getur ráðherra sem ber ábyrgð á fjárlögum ríkisins þó innt greiðslu af hendi án slíkrar heimildar til að mæta greiðsluskyldu ríkisins vegna ófyrirséðra atvika eða ef almannahagsmunir krefjast þess.
+70,Leita skal heimildar fyrir slíkum greiðslum í fjáraukalögum.
+71,Fjárlaganefnd Alþingis getur krafið stofnanir ríkisins, ríkisfyrirtæki og þá aðra sem fá framlög úr ríkissjóði um upplýsingar sem tengjast ráðstöfun þess fjár.
+72,Skattamálum skal skipað með lögum.
+72,Engan skatt má leggja á né breyta né taka af nema með lögum.
+72,Ekki má fela stjórnvöldum ákvörðun um hvort leggja skuli á skatt, breyta honum eða afnema hann.
+72,Enginn skattur verður lagður á nema heimild hafi verið fyrir honum í lögum þegar þau atvik urðu sem ráða skattskyldu.
+73,Ekki má taka lán eða undirgangast ábyrgðir sem skuldbinda ríkið nema með lögum.
+73,Stjórnvöldum er óheimilt að ábyrgjast fjárhagslegar skuldbindingar einkaaðila.
+73,Með lögum má þó kveða á um slíka ríkisábyrgð vegna almannahagsmuna.
+73,Náttúruauðlindir og landsréttindi í þjóðareign má ekki selja eða láta varanlega af hendi til einstaklinga eða lögaðila.
+73,Ekki má selja eða láta með öðru móti af hendi fasteignir ríkisins né afnotarétt þeirra nema samkvæmt heimild í lögum.
+73,Um ráðstöfun annarra eigna ríkisins fer að lögum.
+74,Forseti Íslands rýfur Alþingi að ályktun þess.
+74,Skal þá efnt til nýrra kosninga eigi fyrr en sex vikum og eigi síðar en níu vikum frá því er forseti gerði kunnugt um þingrofið.
+74,Alþingismenn halda umboði sínu til kjördags.
+75,Alþingi kýs forstöðumann Ríkisendurskoðunar til fimm ára.
+75,Ríkisendurskoðun skal vera sjálfstæð í störfum sínum.
+75,Hún endurskoðar fjárreiður ríkisins, stofnana þess og ríkisfyrirtækja í umboði Alþingis.
+75,Um hlutverk hennar skal nánar mælt fyrir í lögum.
+75,Endurskoðaðan ríkisreikning næstliðins árs ásamt athugasemdum ríkisendurskoðanda skal leggja fyrir Alþingi til samþykktar fyrir 2. umræðu fjárlaga.
+76,Alþingi kýs umboðsmann Alþingis til fimm ára.
+76,Hann skal vera sjálfstæður í störfum sínum.
+76,Hann gætir að rétti borgaranna og hefur eftirlit með stjórnsýslu ríkis og sveitarfélaga.
+76,Hann gætir þess að jafnræði sé í heiðri haft í stjórnsýslunni og að hún fari að öðru leyti fram í samræmi við lög og vandaða stjórnsýsluhætti.
+76,Um starfsemi umboðsmanns Alþingis og hlutverk hans skal nánar mælt fyrir í lögum.
+77,Forseti Íslands er þjóðhöfðingi lýðveldisins.
+77,Hann er þjóðkjörinn.
+78,Kjörgengur til forseta er sérhver ríkisborgari sem fullnægir skilyrðum um kjörgengi til Alþingis og er orðinn 35 ára.
+79,Forseti Íslands er kosinn í leynilegri atkvæðagreiðslu þeirra er kosningarrétt hafa til Alþingis.
+79,Forsetaefni skal hafa meðmæli minnst eins af hundraði kosningarbærra manna og mest tveggja af hundraði.
+79,Kjósendur skulu raða frambjóðendum, einum eða fleirum að eigin vali, í forgangsröð.
+79,Sá er best uppfyllir forgangsröðun kjósenda, eftir nánari ákvæðum í lögum, er rétt kjörinn forseti.
+79,Ef aðeins einn maður er í kjöri er hann rétt kjörinn án atkvæðagreiðslu.
+79,Að öðru leyti skal ákvarða með lögum um framboð og kosningu forseta Íslands.
+80,Kjörtímabil forseta Íslands hefst 1. ágúst og endar 31. júlí að fjórum árum liðnum.
+80,Forsetakjör fer fram í júní- eða júlímánuði það ár þegar kjörtímabil endar.
+80,Forseti skal ekki sitja lengur en þrjú kjörtímabil.
+81,Forseti Íslands undirritar svohljóðandi eiðstaf að stjórnarskránni þegar hann tekur við störfum: Ég undirrit(uð/aður), …, sem kosin(n) er forseti Íslands um kjörtímabil það er hefst … og lýkur … heiti því, að viðlögðum drengskap mínum og heiðri, að halda stjórnarskrá lýðveldisins Íslands.
+82,Forseta Íslands er óheimilt að hafa með höndum önnur launuð störf á meðan hann gegnir embætti.
+82,Sama gildir um störf í þágu einkafyrirtækja og opinberra stofnana þótt ólaunuð séu.
+82,Ákveða skal með lögum greiðslur af ríkisfé til forseta.
+82,Óheimilt er að lækka greiðslur þessar til forseta á meðan kjörtímabil hans stendur.
+83,Geti forseti Íslands ekki gegnt störfum um sinn vegna heilsufars eða af öðrum ástæðum fer forseti Alþingis með forsetavald á meðan.
+84,Falli forseti frá, verði varanlega ófær um að gegna starfi eða láti af störfum áður en kjörtímabili er lokið skal kjósa nýjan forseta til 31. júlí á fjórða ári frá kosningu hans.
+84,Alþingi getur krafist þess með 3/ 4 hlutum atkvæða að Hæstiréttur Íslands skeri úr um hvort skilyrðum ákvæða 83 og 1. mgr. þessarar greinar sé fullnægt.
+84,Að kröfu forseta Íslands metur Hæstiréttur hvort forseti geti tekið við störfum að nýju vegna þess að skilyrði 83 eigi ekki lengur við.
+85,Forseta má leysa frá embætti áður en kjörtímabili er lokið ef það er samþykkt með meiri hluta atkvæða við þjóðaratkvæðagreiðslu sem til er stofnað að kröfu Alþingis, enda hafi hún hlotið fylgi 3/ 4 hluta þingmanna.
+85,Þjóðaratkvæðagreiðslan skal þá fara fram innan tveggja mánaða frá því að krafan um hana var samþykkt á Alþingi og gegnir forseti ekki störfum frá því að Alþingi gerir samþykkt sína þar til úrslit þjóðaratkvæðagreiðslunnar eru kunn.
+85,Nú hlýtur krafa Alþingis eigi samþykki við þjóðaratkvæðagreiðsluna, og skal þá Alþingi þegar í stað rofið og efnt til nýrra kosninga í samræmi við 74. gr.
+85,Tuttugu af hundraði kjósenda geta enn fremur krafist þess að forseti verði leystur frá embætti með þjóðaratkvæðagreiðslu.
+85,Slík þjóðaratkvæðagreiðsla skal fara fram innan sex mánaða frá því að krafa kemur fram.
+85,Forseta má leysa frá embætti brjóti hann af ásetningi gegn stjórnarskránni eða öðrum lögum.
+85,Hæstiréttur dæmir slík mál að kröfu 3/ 4 hluta þingmanna.
+85,Með lögum skal mæla nánar fyrir um fyrirkomulag saksóknar.
+85,Heimilt er Hæstarétti að víkja forseta tímabundið úr embætti á meðan málið er til meðferðar.
+85,Forseti Íslands verður ekki sóttur til refsingar nema með samþykki Alþingis.
+86,Forseti Íslands getur náðað menn og veitt almenna uppgjöf saka að tillögu ráðherra.
+86,Ráðherra getur hann þó ekki leyst undan refsingu sem dómstólar hafa dæmt vegna ráðherraábyrgðar nema með samþykki Alþingis.
+87,Forseti Íslands og ráðherrar skipa ríkisráð og hefur forseti þar forsæti.
+87,Tilgangur ríkisráðs er að stuðla að því að forseti sé upplýstur um stefnu ríkisstjórnar, þar á meðal í utanríkismálum, og að meðferð framkvæmdarvalds sé samræmd.
+88,Ráðherrar eru æðstu handhafar framkvæmdarvalds hver á sínu sviði.
+88,Þeir bera hver fyrir sig ábyrgð á málefnum ráðuneyta og stjórnsýslu sem undir þá heyrir.
+88,Geti ráðherra ekki fjallað um mál eða sinnt starfi sínu að öðru leyti vegna vanhæfis eða annarra ástæðna felur forsætisráðherra öðrum ráðherra staðgöngu.
+88,Forsætisráðherra ákveður með reglum fyrirkomulag staðgöngu þurfi hann sjálfur að víkja sæti eða geti ekki gegnt störfum tímabundið.
+88,Enginn getur gegnt sama ráðherraembætti lengur en átta ár.
+89,Ráðherrar sitja í ríkisstjórn.
+89,Forsætisráðherra ber ábyrgð á því að stefna ríkisstjórnar sé samræmd.
+89,Forsætisráðherra boðar til ríkisstjórnarfunda, stýrir þeim og samhæfir störf ráðherra.
+89,Ríkisstjórnarfundi skal halda um frumvörp og tillögur til Alþingis og önnur mikilvæg stjórnarmálefni og til samráðs um störf og stefnumál ríkisstjórnarinnar.
+89,Þá skal halda ríkisstjórnarfund ef ráðherra óskar þess.
+89,Ríkisstjórn tekur ákvarðanir sameiginlega um mikilvæg eða stefnumarkandi málefni samkvæmt nánari ákvæðum í lögum.
+89,Meiri hluti ráðherra þarf að vera á fundi þegar slíkar ákvarðanir eru teknar.
+89,Stjórnarráð Íslands hefur aðsetur í Reykjavík.
+90,Ráðherra er óheimilt að hafa með höndum önnur launuð störf á meðan hann gegnir embætti.
+90,Sama gildir um störf í þágu einkafyrirtækja og opinberra stofnana þótt ólaunuð séu.
+90,Í lögum skal kveðið á um skyldu ráðherra til að veita upplýsingar um fjárhagslega hagsmuni sína.
+91,Ráðherrar mæla fyrir frumvörpum og tillögum frá ríkisstjórn, svara fyrirspurnum, flytja skýrslur og taka þátt í umræðum á Alþingi eftir því sem þeir eru til kvaddir en gæta verða þeir þingskapa.
+91,Ráðherrar hafa ekki atkvæðisrétt á Alþingi.
+91,Sé alþingismaður skipaður ráðherra víkur hann úr þingsæti á meðan hann gegnir embættinu og tekur varamaður þá sæti hans.
+92,Alþingi kýs forsætisráðherra.
+92,Eftir að hafa ráðfært sig við þingflokka og þingmenn gerir forseti Íslands tillögu til þingsins um forsætisráðherra.
+92,Er hann rétt kjörinn ef meiri hluti þingmanna samþykkir tillöguna.
+92,Að öðrum kosti gerir forseti Íslands nýja tillögu með sama hætti.
+92,Verði sú tillaga ekki samþykkt fer fram kosning í þinginu milli þeirra sem fram eru boðnir af þingmönnum, þingflokkum eða forseta Íslands.
+92,Sá er flest atkvæði hlýtur er rétt kjörinn forsætisráðherra.
+92,Hafi nýr forsætisráðherra ekki verið kjörinn innan tíu vikna frá því að forsætisráðherra fær lausn frá embætti skal forseti rjúfa Alþingi og boða til nýrra kosninga í samræmi við 74. gr.
+92,Forsætisráðherra ákveður skipan ráðuneyta og tölu ráðherra og skiptir störfum með þeim en ráðherrar skulu ekki vera fleiri en tíu.
+92,Forseti Íslands skipar forsætisráðherra í embætti.
+92,Forsætisráðherra skal samhliða skipa aðra ráðherra í embætti.
+92,Forseti veitir forsætisráðherra lausn frá embætti eftir alþingiskosningar ef vantraust er samþykkt á hann á Alþingi eða ef ráðherrann óskar þess.
+92,Forsætisráðherra veitir öðrum ráðherrum lausn og skipar í þeirra stað.
+92,Ráðherrar undirrita eiðstaf að stjórnarskránni þegar þeir taka við embætti.
+93,Leggja má fram á Alþingi tillögu um vantraust á ráðherra.
+93,Í tillögu um vantraust á forsætisráðherra skal felast tillaga um eftirmann hans.
+93,Ráðherra er veitt lausn frá embætti ef meiri hluti þingmanna samþykkir tillögu um vantraust á hann.
+93,Ríkisstjórn er veitt lausn ef meiri hluti þingmanna samþykkir tillögu um vantraust á forsætisráðherra.
+93,Forsætisráðherra getur krafist traustsyfirlýsingar Alþingis.
+93,Fái hann ekki slíka yfirlýsingu frá meiri hluta þingmanna verður Alþingi að kjósa nýjan forsætisráðherra innan 30 daga eftir reglum 92 eða samþykkja traustsyfirlýsingu gagnvart starfandi forsætisráðherra, að öðrum kosti skal forseti Íslands rjúfa Alþingi og boða til nýrra kosninga í samræmi við 74 Forsætisráðherra er heimilt að tengja traustsyfirlýsinguna við samþykkt tiltekins lagafrumvarps eða annarrar tillögu til Alþingis.
+93,Að minnsta kosti tveir sólarhringar verða að líða milli kröfu um traustsyfirlýsingu og atkvæðagreiðslu um hana.
+94,Eftir að forsætisráðherra hefur verið veitt lausn ásamt ríkisstjórn sinni situr hún áfram sem starfsstjórn uns nýr forsætisráðherra er skipaður.
+94,Sama gildir ef þing er rofið.
+94,Ráðherrar í starfsstjórn taka aðeins þær ákvarðanir sem eru nauðsynlegar til rækslu starfa þeirra.
+95,Ráðherra er skylt að veita Alþingi eða þingnefnd allar upplýsingar, skjöl og skýrslur um málefni sem undir hann heyra nema leynt skuli fara samkvæmt lögum.
+95,Þingmenn eiga rétt á upplýsingum frá ráðherra með því að bera fram fyrirspurn um mál eða óska eftir skýrslu samkvæmt nánari fyrirmælum í lögum.
+95,Upplýsingar sem ráðherra veitir Alþingi, nefndum þess og þingmönnum skulu vera réttar, viðeigandi og fullnægjandi.
+96,Árlega leggur ríkisstjórn fyrir Alþingi skýrslu um störf sín og framkvæmd ályktana þingsins.
+96,Ráðherra getur gert grein fyrir málefni sem undir hann heyrir með skýrslu til Alþingis.
+97,Ráðherrar bera lagalega ábyrgð á öllum stjórnarframkvæmdum sem undir þá heyra.
+97,Ábyrgð vegna embættisbrota þeirra skal ákveðin með lögum.
+97,Bóki ráðherra andstöðu við ákvörðun ríkisstjórnar ber hann þó ekki lagalega ábyrgð á henni.
+97,Stjórnskipunar- og eftirlitsnefnd Alþingis ákveður, að undangenginni könnun, hvort hefja skuli rannsókn á meintum embættisbrotum ráðherra.
+97,Nefndin skipar saksóknara sem annast rannsóknina.
+97,Hann metur hvort niðurstaða rannsóknarinnar sé nægileg eða líkleg til sakfellingar og gefur þá út ákæru og sækir málið fyrir dómstólum.
+97,Nánar skal kveðið á um rannsókn og meðferð slíkra mála í lögum.
+98,Ráðherrar og önnur stjórnvöld veita þau embætti sem lög mæla fyrir um.
+98,Hæfni og málefnaleg sjónarmið skulu ráða við skipun í embætti.
+98,Þegar ráðherra skipar í embætti dómara og ríkissaksóknara skal skipun borin undir forseta Íslands til staðfestingar.
+98,Áður en tillaga er borin upp við forseta skal ráðherra afla umsagnar sjálfstæðrar hæfnisnefndar.
+98,Um skipan nefndar og störf skal mælt nánar fyrir í lögum.
+98,Ráðherra skipar í önnur æðstu embætti, eins og þau eru skilgreind í lögum, en áður skal hann afla umsagnar sjálfstæðrar nefndar.
+98,Velji ráðherra ekki í slíkt embætti einn þeirra sem nefndin telur hæfastan er skipun háð samþykki Alþingis með 3/ 5 hlutum atkvæða.
+98,Forseti Íslands skipar formann nefndar skv. 4. mgr.
+98,Um nánari skipan hennar og störf skal mælt fyrir í lögum.
+98,Í lögum má kveða á um að í tiltekin embætti megi einungis skipa íslenska ríkisborgara og að embættismaður skuli undirrita eiðstaf að stjórnarskránni.
+99,Með lögum sem eru samþykkt með 3/ 5 hlutum atkvæða á Alþingi má kveða á um að tilteknar stofnanir ríkisins sem gegna mikilvægu eftirliti eða afla upplýsinga sem nauðsynlegar eru í lýðræðisþjóðfélagi njóti sérstaks sjálfstæðis.
+99,Starfsemi slíkra stofnana verður ekki lögð niður, henni breytt að verulegu leyti eða hún fengin öðrum stofnunum nema með lögum sem eru samþykkt með 3/ 5 hlutum atkvæða á Alþingi.
+100,Skipan dómsvaldsins, þar á meðal dómstig og fjölda dómara, skal ákveða með lögum.
+101,Sjálfstæði dómstóla skal tryggt með lögum.
+102,Dómstólar skera endanlega úr um réttindi og skyldur að einkarétti, svo og sök um refsiverða háttsemi og ákveða viðurlög við henni.
+102,Dómstólar skera úr um stjórnskipulegt gildi laga að því marki sem á það reynir í dómsmáli.
+102,Dómstólar skera úr um hvort stjórnvöld hafi farið að lögum.
+102,Hjá ákvörðun stjórnvalds verður ekki komist í bráð með því að bera lögmæti hennar undir dóm nema samkvæmt heimild í lögum eða sérstakri ákvörðun stjórnvalds.
+103,Hæstiréttur Íslands er æðsti dómstóll ríkisins og hefur hann endanlegt vald til að leysa úr öllum málum sem eru lögð fyrir dómstóla.
+103,Með lögum má undanskilja lögsögu Hæstaréttar mál sem sæta úrlausn sérdómstóla á einu dómstigi.
+104,Dómarar eru þeir sem skipaðir hafa verið ótímabundið í embætti dómara eða settir til að gegna því um tiltekinn tíma.
+104,Til dómstarfa geta dómstólar ráðið eða kvatt aðra eftir því sem mælt er fyrir um í lögum.
+104,Ráðherra skipar dómara og veitir þeim lausn.
+104,Dómara verður ekki vikið úr embætti nema með dómi og þá aðeins ef hann uppfyllir ekki lengur skilyrði til að gegna embættinu eða sinnir ekki skyldum sem starfinu tengjast.
+104,Dómarar verða heldur ekki fluttir í annað embætti á móti vilja þeirra nema þegar svo stendur á að verið er að koma nýrri skipun á dómstólana.
+105,Dómendur skulu í embættisverkum sínum einungis fara eftir lögum.
+106,Skipan ákæruvaldsins skal ákveðin með lögum.
+106,Ríkissaksóknari er æðsti handhafi ákæruvaldsins.
+106,Hann skal í embættisverkum sínum einungis fara eftir lögum.
+106,Ráðherra skipar ríkissaksóknara og veitir honum lausn.
+106,Ríkissaksóknari er sjálfstæður í störfum sínum og nýtur sömu verndar í starfi og dómarar.
+107,Sveitarfélög ráða sjálf málefnum sínum eftir því sem lög ákveða.
+107,Sveitarfélög skulu hafa nægilega burði og tekjur til að sinna lögbundnum verkefnum.
+107,Tekjustofnar sveitarfélaga skulu ákveðnir með lögum, svo og réttur þeirra til að ákveða hvort og hvernig þeir eru nýttir.
+108,Á hendi sveitarfélaga skulu vera þeir þættir opinberrar þjónustu sem best þykir fyrir komið undir staðbundinni stjórn þeirra svo sem nánar skal kveðið á um í lögum.
+109,Sveitarfélögum er stjórnað af sveitarstjórnum sem starfa í umboði íbúa og eru kjörnar í almennum, leynilegum kosningum.
+109,Rétti íbúa sveitarfélags til þess að óska eftir atkvæðagreiðslu um málefni þess skal skipað með lögum.
+110,Við undirbúning laga sem með beinum hætti varða málefni sveitarfélaga skal hafa samráð við sveitarstjórnir og samtök þeirra.
+111,Utanríkisstefna og almennt fyrirsvar ríkisins á því sviði er á hendi utanríkisráðherra í umboði og undir eftirliti Alþingis.
+111,Ráðherrum er skylt að veita utanríkismálanefnd Alþingis upplýsingar um mikilvæg utanríkis- og varnarmál.
+111,Ríkisstjórnin skal leitast við að hafa samráð við nefndina áður en ákvörðun er tekin um mikilvæg utanríkismál.
+111,Ákvörðun um stuðning við aðgerðir sem fela í sér beitingu vopnavalds, aðrar en þær sem Ísland er skuldbundið af samkvæmt þjóðarétti, skal háð samþykki Alþingis.
+112,Utanríkisráðherra gerir þjóðréttarsamninga fyrir hönd Íslands.
+112,Þó getur hann enga slíka samninga gert ef þeir hafa í sér fólgið afsal eða kvaðir á landi, innsævi, landhelgi, efnahagslögsögu eða landgrunni, eða kalla á breytingar á lögum, nema samþykki Alþingis komi til.
+113,Heimilt er að gera þjóðréttarsamninga í þágu friðar, efnahagssamvinnu eða réttarvörslu sem fela í sér framsal tiltekinna þátta ríkisvalds sem íslensk stjórnvöld fara með samkvæmt stjórnarskrá þessari til alþjóðlegra stofnana sem Ísland á aðild að eða ef um er að ræða alþjóðasamvinnu sem Ísland tekur þátt í.
+113,Þó er óheimilt að framselja ríkisvald til að breyta stjórnarskránni eða mörkum íslensks yfirráðasvæðis eða til takmörkunar á mannréttindum umfram heimildir í stjórnarskrá.
+113,Framsal ríkisvalds skal ávallt vera afturkræft.
+113,Dómstólar geta ávallt endurmetið efni, umfang og lögmæti framsals í ljósi meðferðar alþjóðastofnunar á framseldum valdheimildum á hverjum tíma.
+113,Með lögum skal afmarka nánar í hverju framsal ríkisvalds samkvæmt þjóðréttarsamningi felst.
+113,Lög sem heimila framsal ríkisvalds þurfa samþykki 3/ 5 hluta atkvæða á Alþingi.
+113,Náist ekki sá meiri hluti atkvæða en þó einfaldur meiri hluti skulu lögin borin undir þjóðaratkvæði til samþykktar eða synjunar.
+113,Við gerð þjóðréttarsamninga um aðild Íslands að alþjóðastofnunum sem fara með yfirþjóðlegt vald og falla undir 1.–3. mgr. skulu heimildarlög borin undir þjóðaratkvæði til samþykktar eða synjunar.
+114,Öllum handhöfum ríkisvalds ber að virða mannréttindareglur sem eru bindandi fyrir ríkið að þjóðarétti og tryggja framkvæmd þeirra og virkni eftir því sem samræmist hlutverki þeirra að lögum og valdmörkum.
+115,Þegar Alþingi hefur samþykkt frumvarp til laga um breytingu á stjórnarskrá með minnst 3/ 5 hlutum greiddra atkvæða skal það borið undir atkvæði allra kosningarbærra manna í landinu til samþykktar eða synjunar.
+115,Atkvæðagreiðslan skal fara fram í fyrsta lagi sex mánuðum og í síðasta lagi níu mánuðum eftir samþykkt frumvarpsins á Alþingi.
+115,Sé frumvarpið samþykkt með 3/ 5 hlutum greiddra atkvæða í þjóðaratkvæðagreiðslunni skal það staðfest af forseta Íslands innan tveggja vikna og telst þá gild stjórnarskipunarlög.
+116,Stjórnarskipunarlög þessi öðlast gildi þegar Alþingi hefur samþykkt þau í samræmi við ákvæði stjórnarskipunarlaga, nr. 33 frá 17. júní 1944, með áorðnum breytingum.
+116,Við gildistöku stjórnarskipunarlaga þessara falla úr gildi stjórnarskipunarlög, nr. 33 frá 17. júní 1944, með áorðnum breytingum.
+116,Þrátt fyrir ákvæði 1. mgr. tekur 17. gr. gildi 1. júní 2021.
+116,Þrátt fyrir ákvæði 40 er heimilt að halda alþingiskosningar á grundvelli gildandi kosningalaga í allt að tvö ár frá gildistöku stjórnarskipunarlaga þessara.
+116,Veita má þeim dómara sem situr í embætti við gildistöku stjórnarskipunarlaga þessara lausn frá embætti er hann hefur náð 65 ára aldri.
+116,Sé dómara við Hæstarétt Íslands veitt lausn samkvæmt ákvæði þessu skal hann þó eigi missa neins í af launum sínum.
+116,Upphafstímamark vegna ákvæða 3. málsl. 80 og 3. mgr. 88 skal miða við gildistöku stjórnarskipunarlaga þessara.

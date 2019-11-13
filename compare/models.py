@@ -39,8 +39,8 @@ class SentenceForm(forms.ModelForm):
 
 class Match(models.Model):
 	ratio = models.IntegerField()
-	stjornarskra = models.ForeignKey(Sentence, related_name='stjornarskra')
-	frumvarp = models.ForeignKey(Sentence, related_name='frumvarp')
+	stjornarskra = models.ForeignKey(Sentence, related_name='stjornarskra', on_delete=models.CASCADE)
+	frumvarp = models.ForeignKey(Sentence, related_name='frumvarp', on_delete=models.CASCADE)
 
 class Article(models.Model):
 	nr = models.CharField(max_length=3, unique=True)
